@@ -1,6 +1,6 @@
 {
   "name": "@blackbox-vision/react-qr-reader",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "description": "A React Component for reading QR codes from the webcam",
   "scripts": {
     "analyze": "source-map-explorer pkg/**/*.js pkg/**/*.js.map",
@@ -31,8 +31,8 @@
   },
   "homepage": "https://github.com/BlackBoxVision/react-qr-reader#readme",
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0",
-    "react-dom": "^16.8.0 || ^17.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "dependencies": {
     "@zxing/browser": "0.0.7",
